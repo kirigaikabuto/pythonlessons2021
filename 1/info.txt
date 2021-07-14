@@ -1,0 +1,17 @@
+1) скачиваем python
+https://www.python.org/downloads/
+
+галочку на ADD TO PATH
+2) зарегистрироваться на github.com
+3) скачать git
+https://git-scm.com/download/win
+4) скачать pycharm
+https://www.jetbrains.com/pycharm/download/#section=windows
+5) создать проект и написать код в main.py
+print("Hello")
+6) python main.py
+7) создаем репозиторий на github.com
+8) выкладываем проект
+git add .
+git commit -m "first commit"
+git push
